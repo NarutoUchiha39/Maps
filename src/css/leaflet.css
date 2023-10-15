@@ -1,0 +1,26 @@
+body
+{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root
+{
+    height: 100vh;
+}
+
+
+.leaflet-container
+{
+    height: 100vh;
+}
+
+/* .leaflet-tile-container {
+    display: none;
+  }  */
+  .leaflet-interactive
+  {
+    stroke-width: 2;
+    fill: none;
+    
+  }
